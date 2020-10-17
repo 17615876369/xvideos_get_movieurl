@@ -1,0 +1,2 @@
+# xvideos_get_movieurl
+通过输入关键字和需要获取的页数来获取xvideos上面的连接，得到的连接保存在data.log
