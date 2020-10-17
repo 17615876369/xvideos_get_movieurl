@@ -1,2 +1,4 @@
-# xvideos_get_movieurl
-通过输入关键字和需要获取的页数来获取xvideos上面的连接，得到的连接保存在data.log
+＃xvideos_get_movieurl
+需要自行安装python3
+需要自行安装requests,bs4模块
+通过输入关键字和需要获取的页数来获取xvideos上面的连接，得到的链接保存在**data.log文件中，可以通过IDM中的导入功能将获取到的文件直接导入进IDM即可完成批量下载
